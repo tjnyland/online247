@@ -1,0 +1,13 @@
+{
+    "prefix" : ".",
+    "bot_age" : 1,
+    "words_array": ["Hello","Hi","hi","hello","sup","Sup","Yo","yo"],
+    "bot_info": {
+        "name" : "MushinBot"
+        
+
+    }
+    
+    
+    
+}
